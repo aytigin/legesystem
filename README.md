@@ -1,0 +1,2 @@
+# legesystem
+Objektorientert Programmering skoleprosjekt
